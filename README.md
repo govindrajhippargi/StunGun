@@ -51,7 +51,7 @@ With an integrated SOS system, it instantly sends safety alerts and location det
 ## 📸 Prototype Preview
 
 ![Stun Gun](img.png)
-![Stun Gun](img2.png)
+![Stun Gun](img1.png)
 ---
 
 ## 👨‍💻 Lead
