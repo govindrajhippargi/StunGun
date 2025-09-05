@@ -58,6 +58,7 @@ With an integrated SOS system, it instantly sends safety alerts and location det
 - Govindraj Hippargi  
 
 ---
-## Awards
+## 🏆 Awards
 - WITCHAR 2025 at WIT Solapur
 
+---
