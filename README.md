@@ -1,14 +1,15 @@
 # ⚡ Smart SOS Stun Gun
 
-A cutting-edge stun gun equipped with a **Smart SOS feature**, designed to empower women with **enhanced safety and peace of mind**.  
-The device combines **self-defense capability** with **real-time emergency alerts** via Bluetooth and a mobile app.  
+This stun gun is designed for personal safety and self-defence in violent situations.
+It is connected to a mobile app for easy control and monitoring.
+With an integrated SOS system, it instantly sends safety alerts and location details to emergency contacts.
 
 ---
 
 ## 🔹 Features
-- **Self-defense stun gun** with high-voltage booster circuit.  
+- **Use in violent situations** with high-voltage current.  
 - **Smart SOS functionality** – sends alerts to emergency contacts.  
-- **Arduino Nano** as the main controller.  
+- **Arduino Nano** as the main operator.  
 - **HC-05 Bluetooth module** for phone connectivity.  
 - **Mobile App** built with Android Studio for SMS/email alerts.  
 - **Quick response time** – SOS alert delivered in ~3 seconds.  
@@ -27,7 +28,7 @@ The device combines **self-defense capability** with **real-time emergency alert
 ## 🔹 Hardware Components
 - Arduino Nano  
 - HC-05 Bluetooth Module  
-- Booster Circuit  
+- Booster Module
 - Rechargeable Battery + Charging Module  
 - Switches for stun gun activation and SOS  
 
@@ -52,7 +53,7 @@ The device combines **self-defense capability** with **real-time emergency alert
 ![Stun Gun](img)
 ---
 
-## 👨‍💻 Team
+## 👨‍💻 Lead
 - Govindraj Hippargi  
 
 ---
