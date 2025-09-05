@@ -49,9 +49,7 @@ The device combines **self-defense capability** with **real-time emergency alert
 
 ## 📸 Prototype Preview
 
-![Stun Gun Prototype](img)  
-*(Place your project photo in an `images/` folder and rename it `stun-gun.jpg`.)*  
-
+![Stun Gun](img)
 ---
 
 ## 👨‍💻 Team
