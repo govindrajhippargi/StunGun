@@ -1,60 +1,61 @@
-🔹 Smart SOS Stun Gun – Summary
+# ⚡ Smart SOS Stun Gun
 
-Purpose: A stun gun with a smart SOS feature designed to enhance women’s safety.
+A cutting-edge stun gun equipped with a **Smart SOS feature**, designed to empower women with **enhanced safety and peace of mind**.  
+The device combines **self-defense capability** with **real-time emergency alerts** via Bluetooth and a mobile app.  
 
-Core Components:
+---
 
-Arduino Nano – Controls stun gun and Bluetooth communication.
+## 🔹 Features
+- **Self-defense stun gun** with high-voltage booster circuit.  
+- **Smart SOS functionality** – sends alerts to emergency contacts.  
+- **Arduino Nano** as the main controller.  
+- **HC-05 Bluetooth module** for phone connectivity.  
+- **Mobile App** built with Android Studio for SMS/email alerts.  
+- **Quick response time** – SOS alert delivered in ~3 seconds.  
+- **Safety assured** – built-in fuse, anti-slip grip, legal compliance.  
 
-HC-05 Bluetooth Module – Connects to mobile phone for real-time signals.
+---
 
-Mobile App – Built in Android Studio, sends SOS alerts via SMS/email.
+## 🔹 System Flow
+1. User presses **SOS button**.  
+2. Arduino Nano sends signal to **HC-05 module**.  
+3. Bluetooth transmits SOS to **mobile app**.  
+4. App triggers **SMS/Email alert** to emergency contacts.  
 
-Hardware Design:
+---
 
-Booster for high current flow.
+## 🔹 Hardware Components
+- Arduino Nano  
+- HC-05 Bluetooth Module  
+- Booster Circuit  
+- Rechargeable Battery + Charging Module  
+- Switches for stun gun activation and SOS  
 
-Battery + Charging Module.
+---
 
-Switches for activation & SOS trigger.
+## 🔹 Future Enhancements
+- GPS integration for live location sharing.  
+- Multiple emergency contacts.  
+- Voice recording for emergency context.  
+- Remote control options.  
 
-Software:
+---
 
-Arduino programming for stun gun control + Bluetooth.
+## 🔹 Performance
+- ✅ **99.9% success rate** in tests  
+- ⚡ **~3 seconds** average alert delivery time  
 
-Mobile app for alert reception & notification.
+---
 
-SOS Flow:
+## 📸 Prototype Preview
 
-Button pressed → Arduino sends signal.
+![Stun Gun Prototype](images/stun-gun.jpg)  
+*(Place your project photo in an `images/` folder and rename it `stun-gun.jpg`.)*  
 
-Bluetooth transmits SOS to phone.
+---
 
-App receives → sends email/SMS alert.
+## 👨‍💻 Team
+- Govindraj Hippargi  
 
-Alerts reach emergency contacts.
+---
 
-Performance:
-
-99.9% success rate.
-
-~3 seconds for alert delivery.
-
-Safety & Legal:
-
-Built-in fuse, anti-slip grip, safe design.
-
-Complies with safety/legal standards.
-
-Future Enhancements:
-
-GPS location tracking.
-
-Multiple contacts.
-
-Voice recording.
-
-Remote control feature.
-
-
-(img.png)
