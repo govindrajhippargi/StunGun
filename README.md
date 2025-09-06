@@ -62,3 +62,6 @@ With an integrated SOS system, it instantly sends safety alerts and location det
 - WITCHAR 2025 at WIT Solapur
 
 ---
+
+## Info
+- I have uploaded the android studio app code zip and the demo app
