@@ -63,5 +63,5 @@ With an integrated SOS system, it instantly sends safety alerts and location det
 
 ---
 
-## Note
+## 📝 Note
 - I have uploaded the android studio app code zip and the demo app
