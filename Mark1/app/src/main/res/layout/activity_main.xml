@@ -1,0 +1,78 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/blue_light">
+
+    <!-- Bluetooth Connection Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/card_background"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/btn_scan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Scan Bluetooth Devices"
+            style="@style/BlueButton" />
+
+        <TextView
+            android:id="@+id/tv_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status: Disconnected"
+            style="@style/BlueText" />
+    </LinearLayout>
+
+    <!-- Phone Numbers Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/card_background"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/et_phone_numbers"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Phone Number (comma separated)"
+            style="@style/BlueEditText" />
+
+        <Button
+            android:id="@+id/btn_save_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Phone Number"
+            style="@style/BlueButton" />
+    </LinearLayout>
+
+    <!-- Message Layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="16dp"
+        android:background="@drawable/card_background"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/et_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Enter Message"
+            style="@style/BlueEditText" />
+
+        <Button
+            android:id="@+id/btn_save_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Save Message"
+            style="@style/BlueButton" />
+    </LinearLayout>
+</LinearLayout>
